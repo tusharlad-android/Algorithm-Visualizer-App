@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.AppCompat" parent="android:Theme.Material.NoActionBar" />
+    <style name="dialog" >
+        <item name="android:windowBackground">@drawable/empty</item>
+        <item name="windowNoTitle">true</item>
+        <item name="windowMinWidthMajor">80%</item>
+        <item name="windowActionBar">false</item>
+    </style>
+</resources>
